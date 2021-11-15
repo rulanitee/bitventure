@@ -1,0 +1,11 @@
+C:\Users\tendai\source\repos\BitVenture.Application\bin\Debug\net5.0\BitVenture.Application.deps.json
+C:\Users\tendai\source\repos\BitVenture.Application\bin\Debug\net5.0\BitVenture.Application.dll
+C:\Users\tendai\source\repos\BitVenture.Application\bin\Debug\net5.0\ref\BitVenture.Application.dll
+C:\Users\tendai\source\repos\BitVenture.Application\bin\Debug\net5.0\BitVenture.Application.pdb
+C:\Users\tendai\source\repos\BitVenture.Application\obj\Debug\net5.0\BitVenture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tendai\source\repos\BitVenture.Application\obj\Debug\net5.0\BitVenture.Application.AssemblyInfoInputs.cache
+C:\Users\tendai\source\repos\BitVenture.Application\obj\Debug\net5.0\BitVenture.Application.AssemblyInfo.cs
+C:\Users\tendai\source\repos\BitVenture.Application\obj\Debug\net5.0\BitVenture.Application.csproj.CoreCompileInputs.cache
+C:\Users\tendai\source\repos\BitVenture.Application\obj\Debug\net5.0\BitVenture.Application.dll
+C:\Users\tendai\source\repos\BitVenture.Application\obj\Debug\net5.0\ref\BitVenture.Application.dll
+C:\Users\tendai\source\repos\BitVenture.Application\obj\Debug\net5.0\BitVenture.Application.pdb
